@@ -1,0 +1,19 @@
+{
+  "name": "istextfile",
+  "version": "1.0.0",
+  "description": "The function judge whether the file is text-file or not",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suxiaoxin/isTextFile.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suxiaoxin/isTextFile/issues"
+  },
+  "homepage": "https://github.com/suxiaoxin/isTextFile#readme"
+}
